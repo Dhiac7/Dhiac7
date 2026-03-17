@@ -171,7 +171,7 @@ open_to: Research · Collaboration · Innovation
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhiac7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="[https://github-profile-trophy.vercel.app/?username=Dhiac7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7](https://github-profile-trophy.screw-hand.vercel.app/?username=Dhiac7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=-1)" />
 </div>
 
 ---
