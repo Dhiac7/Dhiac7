@@ -1,22 +1,15 @@
 <!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗           ║
-║   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗          ║
-║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║          ║
-║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║          ║
-║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝          ║
-║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝           ║
-║                                                                              ║
-║         ██████╗ ██╗  ██╗██╗ █████╗     ██████╗██╗  ██╗ █████╗              ║
-║         ██╔══██╗██║  ██║██║██╔══██╗   ██╔════╝██║  ██║██╔══██╗             ║
-║         ██║  ██║███████║██║███████║   ██║     ███████║███████║             ║
-║         ██║  ██║██╔══██║██║██╔══██║   ██║     ██╔══██║██╔══██║             ║
-║         ██████╔╝██║  ██║██║██║  ██║   ╚██████╗██║  ██║██║  ██║             ║
-║         ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝             ║
-║                                                                              ║
-║              S I G N A L  ›  I N T E L L I G E N C E  ›  A U T O N O M Y  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+ ░▒▓███████▓▒░  ░▒▓█████████▓▒░  ░▒▓███████▓▒░  ░▒▓████████▓▒░  ░▒▓█▓▒░
+░▒▓█▓▒░░░░░░░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░░░░░░░  ░▒▓█▓▒░
+░▒▓█▓▒░        ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░        ░▒▓█▓▒░
+ ░▒▓██████▓▒░  ░▒▓████████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██████▓▒░   ░▒▓█▓▒░
+       ░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░        ░▒▓█▓▒░
+        ░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░        ░▒▓█▓▒░
+ ░▒▓███████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓███████▓▒░   ░▒▓████████▓▒░  ░▒▓████████▓▒░
+                                                                              
+  ══════════════════════════════════════════════════════════════════
+  SIGNAL › INTELLIGENCE › AUTONOMY   ·   Mohamed Dhia Chaouachi
+  ══════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
@@ -53,14 +46,14 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    "The network is the computer.                                             ║
-║     The agent is the engineer.                                               ║
-║     I build the bridge between them."                                        ║
-║                                                                              ║
-║                                                — Mohamed Dhia Chaouachi     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    "The network is the computer.                                         ║
+║     The agent is the engineer.                                           ║
+║     I build the bridge between them."                                    ║
+║                                                                          ║
+║                                              — Mohamed Dhia Chaouachi   ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -73,45 +66,47 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  IDENTITY                                                                    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  Name       │  Mohamed Dhia Chaouachi                                        ║
-║  Role       │  AI Engineer · Researcher · Builder                            ║
-║  Location   │  Tunis, Tunisia 🇹🇳                                           ║
-║  School     │  ESPRIT Engineering School — Computer Engineering               ║
-║  Languages  │  Arabic 🇹🇳  ·  French 🇫🇷  ·  English 🇬🇧               ║
-║  Open to    │  Research · Collaboration · Innovative Engineering              ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  CORE EXPERTISE                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  🤖  Agentic AI & Multi-Agent Systems   ›  LangGraph · LangChain · RAG      ║
-║  📡  5G/6G Network Intelligence         ›  Slicing · SDN/NFV · AIOps        ║
-║  🗄️  Data & Stream Engineering          ›  Kafka · Hadoop · TimescaleDB      ║
-║  🔬  Explainable AI for Telecom         ›  SHAP · LIME · XAI-RAN            ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  A DAY IN THE LIFE                                                           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  08:00  │  ☕  arXiv   ›  AI × Telecom × 6G research papers                 ║
-║  10:00  │  🤖  Agents  ›  LangGraph flows & tool-calling design              ║
-║  14:00  │  📡  Network ›  5G slicing simulations & XAI analysis              ║
-║  18:00  │  🗄️  Data    ›  Kafka streams & real-time KPI dashboards           ║
-║  21:00  │  🌙  OSS     ›  Docs, pull requests & research drafts              ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  PHILOSOPHY                                                                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  "Autonomous systems that adapt, decide, and act at the speed               ║
-║   of the network — that's the future I'm building."                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```python
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║  ESPRIT Engineering School  ·  Computer Engineering  ·  Tunis 🇹🇳   ║
+# ╚══════════════════════════════════════════════════════════════════════╝
+
+@dataclass
+class MohamedDhia:
+    """
+    AI Engineer at the intersection of Agentic Intelligence,
+    5G/6G Network Systems, and Large-Scale Data Engineering.
+
+    Currently building the cognitive layer of future
+    telecom infrastructure — one agent at a time.
+    """
+
+    name       : str  = "Mohamed Dhia Chaouachi"
+    role       : str  = "AI Engineer · Researcher · Builder"
+    location   : str  = "Tunis, Tunisia 🇹🇳"
+    school     : str  = "ESPRIT Engineering School — Computer Engineering"
+    languages  : list = field(default_factory=lambda: [
+        "Arabic 🇹🇳", "French 🇫🇷", "English 🇬🇧"
+    ])
+
+    # ── Core expertise ──────────────────────────────────────────────────
+    expertise  : list = field(default_factory=lambda: [
+        "🤖  Agentic AI & Multi-Agent Systems   ›  LangGraph · LangChain · RAG",
+        "📡  5G/6G Network Intelligence          ›  Slicing · SDN/NFV · AIOps",
+        "🗄️  Data & Stream Engineering           ›  Kafka · Hadoop · TimescaleDB",
+        "🔬  Explainable AI for Telecom          ›  SHAP · LIME · XAI-RAN",
+    ])
+
+    # ── A day in the life ───────────────────────────────────────────────
+    day        : dict = field(default_factory=lambda: {
+        "08:00": "☕  arXiv  →  AI × Telecom × 6G papers",
+        "10:00": "🤖  Agents  →  LangGraph flows & tool-calling design",
+        "14:00": "📡  Network →  5G slicing simulations & XAI analysis",
+        "18:00": "🗄️  Data    →  Kafka streams & real-time KPI dashboards",
+        "21:00": "🌙  OSS     →  Docs, pull requests & research drafts",
+    })
+
+    open_to    : str  = "Research · Collaboration · Innovative Engineering"
 ```
 
 <br/>
@@ -123,32 +118,27 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  SIGNAL  ›  INTELLIGENCE  ›  AUTONOMY                                       ║
-╠══════════════════╦══════════════════════╦═══════════════════════════════════╣
-║  RAW SIGNAL      ║  INTELLIGENCE LAYER  ║  AUTONOMOUS ACTION                ║
-╠══════════════════╬══════════════════════╬═══════════════════════════════════╣
-║                  ║                      ║                                   ║
-║  📶  5G/6G RAN   ║  🧠  ML Models      ║  🤖  LangGraph Agents             ║
-║  ├─ eMBB slices  ║  ├─ Anomaly detect  ║  ├─ Self-healing loops             ║
-║  ├─ URLLC slices ║  ├─ Slice optim.    ║  ├─ Resource decisions             ║
-║  └─ mMTC slices  ║  └─ XAI explain.    ║  └─ Closed-loop AIOps             ║
-║                  ║                      ║                                   ║
-╠══════════════════╬══════════════════════╬═══════════════════════════════════╣
-║                  ║                      ║                                   ║
-║  🌊  Kafka       ║  📊  Data Eng.       ║  📈  Live Insights                ║
-║  ├─ Network KPIs ║  ├─ TimescaleDB      ║  ├─ Grafana dashboards            ║
-║  ├─ Log ingest   ║  ├─ Neo4j graphs     ║  ├─ SLA alerting                  ║
-║  └─ Event streams║  └─ Feature pipes    ║  └─ NOC automation                ║
-║                  ║                      ║                                   ║
-╠══════════════════╬══════════════════════╬═══════════════════════════════════╣
-║                  ║                      ║                                   ║
-║  📄  3GPP Specs  ║  🔍  RAG Pipelines  ║  💬  Telecom AI                   ║
-║  ├─ Standards    ║  ├─ ChromaDB/FAISS   ║  ├─ Spec Q&A assistant            ║
-║  ├─ Network logs ║  ├─ LLM fine-tuning  ║  ├─ Root-cause analysis           ║
-║  └─ Incidents    ║  └─ Prompt eng.      ║  └─ Intelligent NOC               ║
-║                  ║                      ║                                   ║
-╚══════════════════╩══════════════════════╩═══════════════════════════════════╝
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │   RAW SIGNAL            INTELLIGENCE LAYER           AUTONOMOUS ACTION  │
+  │   ══════════            ═══════════════════           ════════════════  │
+  │                                                                         │
+  │   📶  5G/6G RAN    ──►  🧠  ML Models          ──►  🤖  LangGraph      │
+  │    ├ eMBB slices         ├ Anomaly detection          ├ Self-healing     │
+  │    ├ URLLC slices        ├ Slice optimization         ├ Resource mgmt    │
+  │    └ mMTC slices         └ XAI explanations           └ Closed-loop ops  │
+  │                                                                         │
+  │   🌊  Kafka streams ──►  📊  Data Engineering  ──►  📈  Live Insights   │
+  │    ├ Network KPIs         ├ TimescaleDB/Influx         ├ Grafana boards   │
+  │    ├ Log ingestion        ├ Neo4j knowledge graphs     ├ SLA alerting     │
+  │    └ Event streams        └ Feature pipelines          └ NOC automation   │
+  │                                                                         │
+  │   📄  3GPP Specs    ──►  🔍  RAG Pipelines     ──►  💬  Telecom AI     │
+  │    ├ Standards            ├ ChromaDB / FAISS           ├ Spec assistant   │
+  │    ├ Network logs         ├ LLM fine-tuning            ├ Root-cause AI    │
+  │    └ Incident data        └ Prompt engineering         └ Intelligent NOC  │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -159,59 +149,15 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  TECH ARSENAL                                                                ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  LANGUAGES           Python · Java · JavaScript · TypeScript · C++ · PHP    ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  AI / ML /           TensorFlow · PyTorch · OpenCV · LangChain              ║
-║  AGENTIC             LangGraph · RAG Pipelines · HuggingFace · Ollama       ║
-║                      NumPy · Pandas · scikit-learn · Keras · MLflow         ║
-║                      SHAP · LIME · XAI                                       ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  5G / 6G /           5G/6G Networks · Network Slicing (eMBB/URLLC/mMTC)    ║
-║  TELECOM             SDN / NFV / MANO · Signal Processing                   ║
-║                      AIOps Closed-Loop · 3GPP Standards                     ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  DATA ENG /          Apache Kafka · Apache Hadoop · InfluxDB                ║
-║  DATABASES           TimescaleDB · Neo4j · MongoDB · PostgreSQL · MySQL     ║
-║                      Grafana                                                 ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  BACKEND             FastAPI · Django · Flask · Node.js · Spring · Symfony  ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  FRONTEND            React · Angular · HTML · CSS · Tailwind                ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  DEVOPS /            Docker · Git · GitHub · CI/CD · MLOps                  ║
-║  INFRA               Microservices Architecture · RESTful APIs               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
 <div align="center">
 
-**━━━━━━━━━━━━━━━━━  LANGUAGES  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  LANGUAGES  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,php&theme=dark&perline=6" />
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  AI · ML · AGENTS  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  AI · ML · AGENTIC SYSTEMS  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
 
@@ -231,7 +177,7 @@
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  5G/6G · TELECOM  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  5G/6G · NETWORKS · TELECOM  ━━━━━━━━━━━━**
 
 ![5G/6G](https://img.shields.io/badge/5G%2F6G_Networks-00BFFF?style=for-the-badge)
 ![Slicing](https://img.shields.io/badge/Network_Slicing_eMBB%2FURLLC%2FmMTC-FF4500?style=for-the-badge)
@@ -242,7 +188,7 @@
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  DATA · DATABASES  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  DATA ENGINEERING · DATABASES  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=6" />
 
@@ -257,19 +203,19 @@
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  BACKEND  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  BACKEND · APIs  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,spring,symfony&theme=dark&perline=6" />
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  FRONTEND  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  FRONTEND  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark&perline=6" />
 
 <br/><br/>
 
-**━━━━━━━━━━━━━━━━━  DEVOPS · MLOps  ━━━━━━━━━━━━━━━━━**
+**━━━━━━━━━━━━  DEVOPS · MLOps · INFRA  ━━━━━━━━━━━━**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=6" />
 
@@ -291,21 +237,20 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  VERIFIED CREDENTIALS                                                        ║
-╠═══════════════════════════════════════════════════════╦══════════╦══════════╣
-║  CERTIFICATION                                        ║  ISSUER  ║  STATUS  ║
-╠═══════════════════════════════════════════════════════╬══════════╬══════════╣
-║  Deep Learning & Generative AI                        ║  NVIDIA  ║  ✅ PASS ║
-║  Transformer-Based Natural Language Processing        ║  NVIDIA  ║  ✅ PASS ║
-║  Prompt Engineering for Large Language Models         ║  NVIDIA  ║  ✅ PASS ║
-║  Building RAG Agents with LLMs                        ║  NVIDIA  ║  ✅ PASS ║
-║  Rapid Application Development with LLMs              ║  NVIDIA  ║  ✅ PASS ║
-╠═══════════════════════════════════════════════════════╬══════════╬══════════╣
-║  Artificial Intelligence Course                       ║  Samsung ║  ✅ PASS ║
-╠═══════════════════════════════════════════════════════╩══════════╩══════════╣
-║  Issuing Bodies: NVIDIA Deep Learning Institute · Samsung Innovation Campus  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  VERIFIED CREDENTIALS                                        STATUS      │
+  ├──────────────────────────────────────────────────────────────────────────┤
+  │                                                                          │
+  │  🟢  NVIDIA DLI  ›  Deep Learning & Generative AI          [CERTIFIED]  │
+  │  🟢  NVIDIA DLI  ›  Transformer-Based NLP                  [CERTIFIED]  │
+  │  🟢  NVIDIA DLI  ›  Prompt Engineering for LLMs            [CERTIFIED]  │
+  │  🟢  NVIDIA DLI  ›  Building RAG Agents with LLMs          [CERTIFIED]  │
+  │  🟢  NVIDIA DLI  ›  Rapid Application Dev with LLMs        [CERTIFIED]  │
+  │  🔵  Samsung     ›  Innovation Campus · AI Course          [CERTIFIED]  │
+  │                                                                          │
+  ├──────────────────────────────────────────────────────────────────────────┤
+  │  Issuers: NVIDIA Deep Learning Institute · Samsung Innovation Campus     │
+  └──────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -382,29 +327,27 @@
 
 <div align="center">
 
+<br/>
+
 ## ❯ `ping dhia.dev --collaborate`
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   $ ping dhia.dev -c 4 --payload="let's build something great"              ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   64 bytes  ttl=∞  seq=1  ›  AI × Telecom intersection?  Count me in.      ║
-║   64 bytes  ttl=∞  seq=2  ›  Research proposals welcome — all routed.      ║
-║   64 bytes  ttl=∞  seq=3  ›  Open source, wild ideas: zero packet loss.    ║
-║   64 bytes  ttl=∞  seq=4  ›  Response time guaranteed < 24h.               ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   packets.sent       =  4          packets.received  =  4                   ║
-║   packet.loss        =  0.0%       rtt.avg           =  enthusiastic        ║
-║   connection.status  =  ONLINE 🟢  port.5G           =  OPEN 📡            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+  ╔═════════════════════════════════════════════════════════════════════╗
+  ║                                                                     ║
+  ║   $ ping dhia.dev -c 4 --payload="let's build something great"     ║
+  ║                                                                     ║
+  ║   64 bytes  ttl=∞   ›  AI × Telecom intersection? Count me in.    ║
+  ║   64 bytes  ttl=∞   ›  Research proposals welcome — all routed.   ║
+  ║   64 bytes  ttl=∞   ›  Open source, wild ideas: zero packet loss. ║
+  ║   64 bytes  ttl=∞   ›  Response time guaranteed < 24h.            ║
+  ║                                                                     ║
+  ║   4 packets transmitted · 4 received · 0.0% loss                  ║
+  ║   rtt min/avg/max = fast/enthusiastic/instant                      ║
+  ║   connection.status = ONLINE 🟢  ·  port.5G = OPEN 📡             ║
+  ║                                                                     ║
+  ╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
