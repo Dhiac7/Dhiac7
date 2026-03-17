@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Dhia%20Chaouachi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%7C%205G%2F6G%20Networks%20%7C%20Data%20Engineering&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-dhia-chaouachi-643a842a9/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiac7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddhiachaouachi2003@gmail.com)
 [![Location](https://img.shields.io/badge/Tunis,%20Tunisia-1DA1F2?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Tunis,Tunisia)
