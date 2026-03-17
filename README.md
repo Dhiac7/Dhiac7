@@ -200,19 +200,11 @@ open_to: Research · Collaboration · Innovation
 
 <div align="center">
 
-```
-  ping dhia.dev -c 4 --payload="let's build something great"
-
-  ✦  AI × Telecom intersection? Count me in.
-  ✦  Research proposals welcome — all routed.
-  ✦  Open source, wild ideas: zero packet loss.
-  ✦  Response time guaranteed < 24h.
-
-  4 packets transmitted · 4 received · 0.0% loss
-  rtt min/avg/max = fast / enthusiastic / instant
-  connection.status = ONLINE 🟢 · port.5G = OPEN 📡
-```
-
+| | |
+|:---|:---|
+| **Status** | ![Online](https://img.shields.io/badge/ONLINE-22c55e?style=flat-square&logoColor=white) |
+| **Response** | `< 24h guaranteed` |
+| **Interests** | AI × Telecom · Research · Open Source |
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-chaouachi-643a842a9/)
