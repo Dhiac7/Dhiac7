@@ -1,145 +1,211 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Dhia%20Chaouachi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%7C%205G%2F6G%20Networks%20%7C%20Data%20Engineering&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Dhia%20Chaouachi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%205G%2F6G%20Networks%20%7C%20Data%20Engineering&descAlignY=51&descAlign=50"/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-dhia-chaouachi-643a842a9/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiac7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddhiachaouachi2003@gmail.com)
-[![Location](https://img.shields.io/badge/Tunis,%20Tunisia-1DA1F2?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Tunis,Tunisia)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Building+Agentic+AI+for+Telecom+Networks+%F0%9F%A4%96;5G%2F6G+%7C+LLMs+%7C+Data+Engineering+%7C+AIOps;Turning+Signal+Noise+into+Intelligence+%F0%9F%93%A1" alt="Typing SVG" /></a>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Dhiac7&label=Profile%20Views&color=6CE5E8&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
+
+## 🚀 About Me
+
+</div>
 
 ```python
 class MohamedDhia:
     def __init__(self):
         self.name        = "Mohamed Dhia Chaouachi"
-        self.role        = "Computer Engineering Student @ ESPRIT"
         self.location    = "Tunis, Tunisia 🇹🇳"
-        self.focus       = ["AI & Agentic Systems", "5G/6G Networks", "Data Engineering"]
-        self.currently   = "Building AI-driven telecom systems & agentic platforms"
-        self.languages   = ["Arabic 🇹🇳", "French 🇫🇷", "English 🇬🇧"]
+        self.education   = "ESPRIT Engineering School — Computer Engineering"
+        self.focus       = ["Agentic AI & Multi-Agent Systems", "5G/6G Networks", "Data Engineering"]
+        self.available   = "Research Collaborations & Innovative Projects"
 
-    def bio(self):
-        return """
-        Computer Engineering student focused on Networks & Systems, AI, and Data
-        Engineering — with deep expertise in cellular networks (4G–6G), signal
-        processing, and AI-driven optimization. Strong hands-on background in
-        backend development, DevOps, and building scalable intelligent systems.
-        """
+        self.daily_routine = {
+            "morning"  : "☕ Coffee + Papers on AI for Telecom",
+            "afternoon": "💻 Building Agents & Network Pipelines",
+            "evening"  : "📡 Simulating 5G/6G Environments",
+            "night"    : "🌙 Open Source & Research Writing"
+        }
+
+        self.philosophy  = "Autonomous systems that adapt, decide, and act — that's the future I'm building. 🚀"
+
+    def get_languages(self):
+        return ["Arabic 🇹🇳", "French 🇫🇷", "English 🇬🇧"]
 ```
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-### 🌐 AURA-NET — Agentic AI for 5G/6G Network Operations
-> `LangChain/LangGraph` · `FastAPI` · `Kafka` · `InfluxDB` · `Docker` · `AIOps`
+<a href="https://www.linkedin.com/in/mohamed-dhia-chaouachi-643a842a9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mohameddhiachaouachi2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Dhiac7" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-A **mini telecom operations platform** coupling a 5G/6G digital twin with an agentic AI ops center for **autonomous closed-loop automation**.
-
-- 🏗️ 4-layer microservices: Presentation → AI & Control → Data → Network
-- 🤖 6-agent LangGraph pipeline: **NOC Triage → Root Cause → Planner → Safety/Policy → Executor → Verifier**
-- 📉 Reduced MTTD by ~**55%** vs. manual NOC workflows
-- 🛡️ Safety guardrails: policy constraints, blast-radius checks, auto-rollback → **0% unsafe actuation**
-- 📊 Monitors 6 KPIs: PRB utilization, SINR, CQI, latency, throughput, handover failure rate
-
----
-
-### 🔪 Smart Network Slice Selection in 5G/6G
-> `ML/DL` · `XAI (SHAP/LIME)` · `SDN/NFV` · `Big Data` · `Python`
-
-An **AI-driven slice classification system** for QoS-aware decisions across eMBB, URLLC, and mMTC service types.
-
-- 📦 Trained on **500K+ labeled traffic records** from real 5G + synthetic 6G datasets
-- 🎯 Achieved **>92% slice classification accuracy** with 5–15 min congestion forecasting (MAPE < 5%)
-- 🔍 Applied **SHAP/LIME** for operator-interpretable decisions — reduced review time by **35%**
-- 🔌 Designed for integration into **SDN/NFV/MANO** orchestration frameworks
+</div>
 
 ---
-
-### 📚 EduQuill — Agentic AI Tutoring & Assessment Platform
-> `LLMs` · `RAG Pipelines` · `FastAPI` · `React` · `MLOps` · `NLP`
-
-An **agentic education platform** for intelligent tutoring, AI-powered quiz generation, and automated grading.
-
-- ✂️ Reduced manual assessment time by up to **70%** across 3 subject domains
-- 💬 LLM + RAG for context-aware Q&A, syllabus-driven assessments & personalized feedback
-- 🏆 NLP auto-scoring with **F1 score > 0.88** and **>85% user satisfaction**
-- ⚡ Scalable FastAPI + React supporting **200 concurrent users** with MLOps-ready pipeline
-
----
-
-### 🔐 Robust Multi-Class Intrusion Detection System (UNSW-NB15)
-> `ML/DL` · `Group DRO` · `Network Security` · `Python`
-
-A **multi-class IDS** addressing severe class imbalance across 9 attack categories in real network traffic.
-
-- 📈 Group DRO improved worst-class recall by **18%** and overall F1 by **12%** vs. ERM baselines
-- 🔬 Strict reproducible ML pipeline: anti-leakage rules, 5-seed evaluation, class-wise analysis
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 📡 Networks & Telecom
-![5G](https://img.shields.io/badge/5G%2F6G_Networks-00BFFF?style=flat-square&logo=signal&logoColor=white)
-![SDN](https://img.shields.io/badge/SDN%2FNFV-6A0DAD?style=flat-square)
-![Network Slicing](https://img.shields.io/badge/Network_Slicing-FF4500?style=flat-square)
-
-### 🗄️ Data Engineering & Big Data
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-### 🧩 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 Engineering Degree — Computer Engineering (Networks & Systems) | **ESPRIT Engineering School** | 2022 – Present |
-| 📐 Baccalaureate in Mathematics | Lycée Mohamed Dachraoui, Menzah 9 | 2022 |
-
----
-
-## 📜 Certifications
 
 <div align="center">
+
+## 💻 Tech Arsenal
+
+### 🎯 Core Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,php&theme=dark&perline=6" />
+
+### 🤖 AI / ML & Agentic Systems
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=3" />
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SHAP/LIME](https://img.shields.io/badge/SHAP%2FLIME-XAI-6CE5E8?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4ECDC4?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### 📡 Networks & Telecom
+
+![5G/6G](https://img.shields.io/badge/5G%2F6G_Networks-00BFFF?style=for-the-badge)
+![Network Slicing](https://img.shields.io/badge/Network_Slicing_(eMBB%2FURLLC%2FmMTC)-FF4500?style=for-the-badge)
+![SDN/NFV](https://img.shields.io/badge/SDN%2FNFV%2FMANO-6A0DAD?style=for-the-badge)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-1DA1F2?style=for-the-badge)
+![AIOps](https://img.shields.io/badge/AIOps_Closed--Loop-22ADF6?style=for-the-badge)
+
+### 🗄️ Data Engineering & Big Data
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3" />
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,spring,symfony&theme=dark&perline=6" />
+
+### 🖥️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark&perline=5" />
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,grafana&theme=dark&perline=4" />
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-4ECDC4?style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiac7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dhiac7&theme=radical&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=6CE5E8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiac7&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFFFFF&layout=compact&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiac7&theme=react-dark&hide_border=true&bg_color=0D1117&color=6CE5E8&line=6CE5E8&point=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhiac7&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiac7&custom_title=Contribution%20Graph&bg_color=0D1117&color=6CE5E8&line=FF6B6B&point=FFFFFF&area_color=6CE5E8&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Watch My Contribution Snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhiac7/Dhiac7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhiac7/Dhiac7/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhiac7/Dhiac7/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Current Focus
+
+```mermaid
+graph LR
+    A[🎯 Current Goals] --> B[Agentic AI Systems]
+    A --> C[5G/6G Research]
+    A --> D[Data Engineering]
+    B --> E[LangGraph Agents]
+    B --> F[Closed-Loop AIOps]
+    C --> G[Network Slicing & XAI]
+    D --> H[Big Data Pipelines]
+
+    style A fill:#6CE5E8,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📜 Certifications
 
 | Issuer | Certification |
 |--------|--------------|
@@ -154,50 +220,23 @@ A **multi-class IDS** addressing severe class imbalance across 9 attack categori
 
 ---
 
-## 💼 Experience
-
-**🏢 Web Development Intern — IPACT Consult Inc.** *(June 2024)*
-
-- Redesigned a multilingual website (3 languages) with geolocation-based content routing & 4-tier role management
-- Cut language detection latency by **~40%** via optimized routing logic
-- Integrated consultation booking system → reduced scheduling time by **~60%**, eliminating double-booking across 3 time zones
-- Grew organic reach by **25%** via social media integration; delivered responsive UX across 5+ device breakpoints
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhiac7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiac7&layout=compact&langs_count=8&theme=tokyonight"/>
+### 🤝 Let's Collaborate!
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhiac7&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people in AI, Telecom & Data</b> — if you want to say <b>hi or collaborate, I'm always open! 😊</b></em>
 
 </div>
 
 ---
 
-## 🔍 Current Interests
-
-```
-🔭 Exploring ....... Agentic AI systems & multi-agent orchestration (LangGraph)
-🌱 Learning ........ 6G AI-native network architectures & SAGIN
-👯 Open to ......... Research collaborations in AI for Telecom & Network Security
-💬 Ask me about .... 5G slicing, RAG pipelines, MLOps, or AIOps
-⚡ Fun fact ........ I optimize networks by day and build AI agents by night
-```
-
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-**💜 Thanks for visiting! Feel free to reach out or explore my projects.**
+### ⭐ From [Dhiac7](https://github.com/Dhiac7) with 💙
+
+**"The best way to predict the future is to build it — one agent at a time."**
 
 </div>
